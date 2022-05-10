@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Product Management**
 
-- 💬 Ask me about **React, Vue, Nodejs and MongoDb**
+- 💬 Ask me about **React, Vue, Nodejs and MongoDB**
 
 - 📫 How to reach me **ammyass2@gmail.com**
 
