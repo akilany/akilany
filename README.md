@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akilany" alt="akilany" /></a> </p>
 
-- 🔭 I’m currently working on [Sha2ah](https://www.sha2ah.com/)
+- 🔭 I’m currently working on [Creatorfy](https://creatorfy.com/)
 
 - 🌱 I’m currently learning **Product Management**
 
-- 💬 Ask me about **React, Vue, Nodejs and MongoDB**
+- 💬 Ask me about **React, Vue, Nodejs, and MongoDB**
 
 - 📫 How to reach me **ammyass2@gmail.com**
 
